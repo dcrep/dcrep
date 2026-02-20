@@ -1,7 +1,6 @@
-### Hello 👋
+### Daniel C's Repo
 
-# I'm Daniel C rrrepp-o
-I program as a hobbby and as a part of education.  All of my code is generally given away for free or with the license attributions (of others).
+# I'm Daniel C, I program as a hobbby and as a part of education.  All of my code is generally given away for free or with the license attributions (of others).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcrep)](https://github.com/anuraghazra/github-readme-stats)
 

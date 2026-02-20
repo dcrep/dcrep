@@ -15,7 +15,7 @@ Public project Highlights:
 
 Simpler projects:
 - [TeamBrick: BrickBlast](https://github.com/dcrep/TeamBrickBlast)
-- [Toy4 - Ball Roll/Grapple mashup Prototype](https://github.com/dcrep/mod1-w4toyrepo-DC)
+- [Toy4 - Ball Roll/Grapple mashup Prototype](https://github.com/dcrep/ball-toy4)
 - [ASL-101 Learn - HTML-based learning tool for RVCC class](https://github.com/dcrep/asl-101_learn)
 
 Some tidbits about me:

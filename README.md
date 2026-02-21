@@ -6,7 +6,7 @@ I program as a hobbby and as a part of education.  All of my code is generally g
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcrep)](https://github.com/anuraghazra/github-readme-stats)
 
 Some projects are hidden but the releases and/or gameplay videos are public:
-- [Dungeon Minion @ Itch.io](https://ashesnbones.itch.io/dungeon-minion-prototype)
+- [Dungeon Minion @ Itch.io](https://ashesnbones.itch.io/dungeon-minion-prototype), gameplay video at https://youtu.be/YEWSKyDiqj0
 - [Dungeon Minion: Gadget @ Itch.io](https://ashesnbones.itch.io/dungeon-minion-gadget)
 
 Public project Highlights:

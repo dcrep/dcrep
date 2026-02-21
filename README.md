@@ -14,9 +14,10 @@ Public project Highlights:
 - [FlipOut digital board game prototype](https://github.com/dcrep/FlipOutPrototype)
 
 Simpler projects:
-- [TeamBrick: BrickBlast](https://github.com/dcrep/TeamBrickBlast)
-- [Toy4 - Ball Roll/Grapple mashup Prototype](https://github.com/dcrep/ball-toy4)
-- [ASL-101 Learn - HTML-based learning tool for RVCC class](https://github.com/dcrep/asl-101_learn)
+- [TeamBrick: BrickBlast](https://github.com/dcrep/TeamBrickBlast), playable at https://dcrep.github.io/TeamBrickBlast/
+- [Verb-Toys](https://github.com/dcrep/verb-toys), playable at https://dcrep.github.io/verb-toys/
+- [Toy4 - Ball Roll/Grapple mashup Prototype](https://github.com/dcrep/ball-toy4), playable at https://dcrep.github.io/ball-toy4/
+- [ASL-101 Learn - HTML-based learning tool for RVCC class](https://github.com/dcrep/asl-101_learn), playable at https://dcrep.github.io/asl-101_learn/
 
 Some tidbits about me:
 - 🔭 I’m currently working on game development, small personal project and small scriptlets in my spare time

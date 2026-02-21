@@ -7,7 +7,6 @@ I program as a hobbby and as a part of education.  All of my code is generally g
 
 Some projects are hidden but the releases and/or gameplay videos are public:
 - [Dungeon Minion @ Itch.io](https://ashesnbones.itch.io/dungeon-minion-prototype), gameplay video at https://youtu.be/YEWSKyDiqj0
-- [Dungeon Minion: Gadget @ Itch.io](https://ashesnbones.itch.io/dungeon-minion-gadget)
 
 Public project Highlights:
 - [Scary Nugget Nightmare House](https://github.com/dcrep/NuggetNightmare), gameplay at https://youtu.be/eaDt_R_fSro
@@ -17,6 +16,8 @@ Simpler projects:
 - [TeamBrick: BrickBlast](https://github.com/dcrep/TeamBrickBlast), playable at https://dcrep.github.io/TeamBrickBlast/
 - [Verb-Toys](https://github.com/dcrep/verb-toys), playable at https://dcrep.github.io/verb-toys/
 - [Toy4 - Ball Roll/Grapple mashup Prototype](https://github.com/dcrep/ball-toy4), playable at https://dcrep.github.io/ball-toy4/
+- [Dungeon Minion: Gadget](https://github.com/dcrep/dungeon-minion-gadget), playable at https://dcrep.github.io/dungeon-minion-gadget/
+  Note: click 1-2 times on screen to start main menu music
 - [Py-BBreak - Brick-Breaker in python using pygame](https://github.com/dcrep/py-bbreak)
 - [ASL-101 Learn - HTML-based learning tool for RVCC class](https://github.com/dcrep/asl-101_learn), playable at https://dcrep.github.io/asl-101_learn/
 

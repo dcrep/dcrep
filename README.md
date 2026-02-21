@@ -10,7 +10,7 @@ Some projects are hidden but the releases and/or gameplay videos are public:
 
 Public project Highlights:
 - [Scary Nugget Nightmare House](https://github.com/dcrep/NuggetNightmare), gameplay at https://youtu.be/eaDt_R_fSro
-- [FlipOut digital board game prototype](https://github.com/dcrep/FlipOutPrototype), web build incoming (?)
+- [FlipOut digital board game prototype](https://github.com/dcrep/flipout-build), playable at https://dcrep.github.io/flipout-build/
 
 Simpler projects:
 - [TeamBrick: BrickBlast](https://github.com/dcrep/TeamBrickBlast), playable at https://dcrep.github.io/TeamBrickBlast/

@@ -9,6 +9,9 @@ Some projects are hidden but the releases and/or gameplay videos are public:
 - [Dungeon Minion @ Itch.io](https://ashesnbones.itch.io/dungeon-minion-prototype), gameplay video at https://youtu.be/YEWSKyDiqj0
 - [Dungeon Minion: Gadget @ Itch.io](https://ashesnbones.itch.io/dungeon-minion-gadget)
 
+Private but 
+- Py-Bbreak - Brick-Breaker in python with pygame
+
 Public project Highlights:
 - [Scary Nugget Nightmare House](https://github.com/dcrep/NuggetNightmare), gameplay at https://youtu.be/eaDt_R_fSro
 - [FlipOut digital board game prototype](https://github.com/dcrep/FlipOutPrototype), web build incoming (?)
@@ -17,6 +20,7 @@ Simpler projects:
 - [TeamBrick: BrickBlast](https://github.com/dcrep/TeamBrickBlast), playable at https://dcrep.github.io/TeamBrickBlast/
 - [Verb-Toys](https://github.com/dcrep/verb-toys), playable at https://dcrep.github.io/verb-toys/
 - [Toy4 - Ball Roll/Grapple mashup Prototype](https://github.com/dcrep/ball-toy4), playable at https://dcrep.github.io/ball-toy4/
+- [Py-BBreak - Brick-Breaker in python using pygame](https://github.com/dcrep/py-bbreak)
 - [ASL-101 Learn - HTML-based learning tool for RVCC class](https://github.com/dcrep/asl-101_learn), playable at https://dcrep.github.io/asl-101_learn/
 
 Some tidbits about me:

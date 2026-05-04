@@ -9,7 +9,7 @@ Some projects are hidden but the releases and/or gameplay videos are public:
 - [Dungeon Minion @ Itch.io](https://ashesnbones.itch.io/dungeon-minion-prototype), gameplay video at https://youtu.be/YEWSKyDiqj0
 
 Public project Highlights:
-- [Scary Nugget Nightmare House](https://github.com/dcrep/NuggetNightmare), gameplay at https://youtu.be/eaDt_R_fSro
+- [Scary Nugget Nightmare House](https://github.com/dcrep/NuggetNightmare), playable at https://dcrep.github.io/NuggetNightmarePlayable/
 - [FlipOut digital card game prototype](https://github.com/dcrep/flipout-build), playable at https://dcrep.github.io/flipout-build/
 
 Simpler projects:

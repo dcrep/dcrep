@@ -11,6 +11,7 @@ Some projects are hidden but the releases and/or gameplay videos are public:
 Public project Highlights:
 - [Scary Nugget Nightmare House](https://github.com/dcrep/NuggetNightmare), playable at https://dcrep.github.io/NuggetNightmarePlayable/
 - [FlipOut digital card game prototype](https://github.com/dcrep/flipout-build), playable at https://dcrep.github.io/flipout-build/
+- [Caged by Team Nitemare](https://github.com/dcrep/Caged-TeamNitemare), too big for web version. Windows build @ https://ashesnbones.itch.io/caged
 
 Simpler projects:
 - [TeamBrick: BrickBlast](https://github.com/dcrep/TeamBrickBlast), playable at https://dcrep.github.io/TeamBrickBlast/
